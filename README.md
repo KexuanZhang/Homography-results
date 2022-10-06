@@ -5,8 +5,9 @@ By applying my homography transformation, we have the following results:<br />
 1. <br />
 ![document0](https://user-images.githubusercontent.com/74875627/194393654-a72c38a5-269c-479d-9450-92a1cdc6f12a.jpg)<br />
 is transformed to<br />
-![document0_output](https://user-images.githubusercontent.com/74875627/194393779-247dc88f-455a-448e-b602-117da9ea249d.png)<br />
+![document0_output](https://user-images.githubusercontent.com/74875627/194395001-adfca21a-02a6-4c9c-8924-ce6cb1051809.png)<br />
 2. <br />
+
 ![phone0](https://user-images.githubusercontent.com/74875627/194394133-a62c549d-f247-4aeb-94e2-1752d9a6c042.jpg) <br />
 is transformed to<br />
 ![phone0_output](https://user-images.githubusercontent.com/74875627/194394160-bfabb2b6-6191-4754-b093-736652e65f5e.png)<br />
